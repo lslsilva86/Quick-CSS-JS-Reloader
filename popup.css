@@ -1,0 +1,13 @@
+body {
+  width: 244px;
+}
+body button {
+  width: 100px;
+  margin: 10px;
+  padding: 10px;
+  border: none;
+  color: white;
+  background: purple;
+}
+
+/*# sourceMappingURL=popup.css.map */
